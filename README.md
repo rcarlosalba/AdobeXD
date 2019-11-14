@@ -155,3 +155,30 @@ En el centro estan los Artboard, (documentos base) teléfonos, tablets, web y pe
 - se hace una rectangulo sobre ambos cuadro para hacer un degradado y de esa forma se pueden sacar los colores 
 - luego se debieran agregar a los assets
 ![Escala de colores](./gradientesColor.jpg)
+- se podrian agregar mas colores de ser necesario y organizarlos en el panel de los assets
+- todo esto siempre forma parte del mockup 
+
+## Integración con Adobe
+- no hace falta mas que copiar y pegar para llevar de Illustrator a Xd manteniendo sus propiedades vectoriales
+- selecionando el elemento para aplicar color clicl derecho sobre el color asignar como borde
+- ctl 0 para ver todo el contenido 
+
+## interaciones
+- En el Mockup se define el estulo visual 
+- en el protopipo le podemos decir al developer como debería funcionar 
+- cuando el contenido se sale o se deborda podemos hacer mlas largo el artboard y Xd entenderá que estamos haciendo scrool 
+- para que el menu inferior se quede pegado, lo seleccionamos y escogemos que se quede fijo cuando haga scroll
+- para las animaciones nos pasamos a prototipo 
+- doble clicl sobre el elemento clicleable y conectarlo con la vista a la que queremos llegar 
+- disparador tap, action transicion, despliege es a donde va, animación es la animación y sus propiedades
+
+## animaciones
+- dos artboars iguales
+- modificamos el elemento a animar en el segundo artboard y een action es una autoanimacion con sus propiedades
+
+## exportar
+- es una buena practica revisar cuales son los que queremos exportar
+- en lote será todo lo que este marcado (no todo esta por predeterminacion marcado)
+- podemos selecionar diferentes resultados, web, diseño, IOS, Android 
+- también podemos selecionar solo un elemento y exportarlo
+- también se pueden exportar los artboard, selecionando en capas, seleciono el que quiero o  bien todos 
