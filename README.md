@@ -16,7 +16,7 @@ En el centro estan los Artboard, (documentos base) teléfonos, tablets, web y pe
 
 ## Interfaz y navegación
 1. Modo de diseño: encontramos las herramientas para crear, las capas artboards, panel de herramientas y propiedades
-2. Modo prototipo: selecionar los objetos del diseño y "cablearlos" para crear interación 
+2. Modo prototipo: selecionar los objetos del diseño y "cablearlos" para crear interación
 3. Nombre del Proyecto
 4. Zoom para ajustar el viewport 
 5. vista previa (de movil y de ordenador)
@@ -33,10 +33,16 @@ En el centro estan los Artboard, (documentos base) teléfonos, tablets, web y pe
 - el zoom esta en la esquina y al final de la barra de herramientas 
 - con z tambien cambia para tener zoom in
 - con alt cambia el zoom para zoom out
+*. Panel de Herramientas a la izquierda que contiene al de capas y assets 
+*. Panel de propiedades a la derecha, muestra las propiedades del objeto o la herramienta 
+*. con la herramienta de la mano se mueve y navega en el documento, se activa con space (tecla)
+*. con la z habilitamos el zoom y con alt el zoom out
+
 
 ## Artboard 
 - tiene un "preset" en el tamanio pero se puede personalizar 
 - tiene un "limite de alto" pero se puede "alargar" y se conserva una linea punteada.
+*. esto se modifica con la opcion de scrolling se puede seleccionar verticar u horizontal y se puede selecionar el punto de viewport
 - se puede aplicar un color 
 
 ## grid y layout 
@@ -45,7 +51,7 @@ En el centro estan los Artboard, (documentos base) teléfonos, tablets, web y pe
 - se pueden agregar margenes del grid 
 - se puede usar los por defecto o crear alguno por defecto 
 - Selecionando Square tenemos: 
-- podemos personalizar el tamanio de los gruados o grid 
+*. podemos personalizar el tamanio de los cuadros o grid 
 
 ## Formas 
 - dando click en la esquina superior izquierda encontramos las formas podemos cambiar la dimensiones orientacion en X o Y
@@ -57,6 +63,7 @@ En el centro estan los Artboard, (documentos base) teléfonos, tablets, web y pe
 - sombra o shadow en X y X y blur o desvanecido entre mas alto mas difuminado
 - comparten todo la unica diferencia es que el circulo no tiene bordes redondeados y el tringulo puede crear poligonos  (el triangulo si acepota bordes redondeados)
 - la linea comparte y agrega terminaciones a las lineas 
+- la linea no tiene relleno solo color de borde 
 
 ## Alinear y combiar formas
 - para ducplicar formas es ctrl + d o bien alt y arrastar la forma 
